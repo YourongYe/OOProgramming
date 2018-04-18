@@ -7,7 +7,7 @@
 4. Polymorphism 
 5. Abstraction 
 
-### SOLID
+### S.O.L.I.D.
 1. Single responsibility principle
 2. Open/closed principle
 3. Liskov substitution principle
